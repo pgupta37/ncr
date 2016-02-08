@@ -1,0 +1,2 @@
+# ncr
+Learning GIT HUB
